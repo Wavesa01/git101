@@ -1,0 +1,6 @@
+print('Hello git')
+
+
+
+
+:wq
